@@ -28,3 +28,13 @@
 2022-03-18 18:58:55,915 INFO  [Log] checkOpenFavoriteList()Passed 
 2022-03-18 18:58:57,161 INFO  [Log] checkRemoveFromFavoriteList()Passed 
 2022-03-18 18:59:01,396 INFO  [Log] checkLogout()Passed 
+2022-04-03 23:40:58,286 INFO  [Log] checkBasePageUrl()Passed 
+2022-04-03 23:40:58,592 INFO  [Log] acceptCookiesAndCheck()Passed 
+2022-04-03 23:41:02,792 INFO  [Log] checkLoginWhenLoginSuccesful()Passed 
+2022-04-03 23:41:03,306 INFO  [Log] checkDropDownWhenSelectComputers()Passed 
+2022-04-03 23:41:05,503 INFO  [Log] checkSearchForMsi()Passed 
+2022-04-03 23:41:06,995 INFO  [Log] checkSecondPage()Passed 
+2022-04-03 23:41:12,848 INFO  [Log] checkFavoriteList()Passed 
+2022-04-03 23:41:18,202 INFO  [Log] checkOpenFavoriteList()Passed 
+2022-04-03 23:41:19,179 INFO  [Log] checkRemoveFromFavoriteList()Passed 
+2022-04-03 23:41:23,398 INFO  [Log] checkLogout()Passed 
